@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Alibaba Cluster Trace Program
 
 ## Overview
@@ -59,3 +60,7 @@ The fundemental idea of our releasing cluster data is to enable researchers & pr
 So far this session is empty. In future, we are going to link some reports and open source repo on how to anaylsis the trace here, with the permission of the owner.
 
 The purpose of this is to help more beginners to get start on learning either basic data analysis or how to inspect cluster from statistics perspective.
+=======
+# alibaba-traces
+
+>>>>>>> Initial commit
